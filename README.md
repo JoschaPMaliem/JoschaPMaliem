@@ -1,6 +1,6 @@
 ## Welcome🦙
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=synthwave)
 <!--
 **JoschaPMaliem/JoschaPMaliem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
