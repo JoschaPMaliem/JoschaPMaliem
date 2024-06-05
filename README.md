@@ -2,7 +2,7 @@
 [![MasterHead](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/banner.png)](https://github.com/JoschaPMaliem/)
 
 
-## Welcome🦙
+- 👯 I’m looking to collaborate on front-end and flutter projects
 
 
 
