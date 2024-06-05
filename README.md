@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/synthwaveretro.gif)](https://github.com/JoschaPMaliem/)
+[![MasterHead](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/banner.gif)](https://github.com/JoschaPMaliem/)
 
 
 ## Welcome🦙
