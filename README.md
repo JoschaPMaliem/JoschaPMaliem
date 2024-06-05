@@ -8,6 +8,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt) ![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif)
 
+![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoschaPMaliem&layout=compact)
+
 
 
 <!--
