@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt)
 
-https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/92otv0xz14u71.gif
+![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/92otv0xz14u71.gif)
 <!--
 **JoschaPMaliem/JoschaPMaliem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
