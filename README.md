@@ -1,6 +1,8 @@
 
 [![MasterHead](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/synthwaveretro.gif)](https://github.com/JoschaPMaliem/)
 
+  <img align="right" alt="Coding" width="400" src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/synthwaveretro.gif">
+
 ## Welcome🦙
 
 
