@@ -1,6 +1,6 @@
 ## Welcome🦙
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt) ![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/92otv0xz14u71.gif)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt) ![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif)
 
 
 <!--
