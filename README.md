@@ -8,6 +8,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt) ![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoschaPMaliem-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **JoschaPMaliem/JoschaPMaliem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
