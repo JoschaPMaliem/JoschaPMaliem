@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome🦙
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem)](https://github.com/anuraghazr/github-readme-stats)
 
