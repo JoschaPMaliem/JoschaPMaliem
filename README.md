@@ -8,9 +8,25 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cs,html,css,js,bootstrap,mysql,flutter,figma,wordpress,vscode)](https://skillicons.dev)
 
-I am Joscha Maliem, a passionate software developer with experience in building dynamic and innovative solutions. I am currently working on projects involving Java Spring Boot, focusing on creating robust and scalable backend systems. I enjoy solving complex problems and learning new technologies to expand my skill set.  
+I am Joscha Maliem, a passionate software developer with experience in building dynamic and innovative solutions. I am currently working on projects involving Java Spring Boot, focusing on creating robust and scalable backend systems. I enjoy solving complex problems and learning new technologies to expand my skill set. 
 
-*Man is something that shall be overcome. What have you done to overcome him?*  
+
+
+
+*Man is something that shall be overcome. What have you done to overcome him?* 
+
+<div align="center">
+ <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="100px" />
+  <strong>Let's connect!</strong>
+ <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/my-hero-academia-boku-no-hero-academia.gif" width="10px" style="transform: scaleX(-1);" />
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+
 
 
 
