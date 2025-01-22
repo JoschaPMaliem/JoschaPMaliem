@@ -19,12 +19,26 @@ I am Joscha Maliem, a passionate software developer with experience in building 
 <div style="display: flex; align-items: center; gap: 5px;">
 <strong style="font-size: 40px;">Let's connect!⚡</strong>
 </div>
-
-<a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-
+ <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://x.com/JoschaMaliem" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.reddit.com/user/JoschaM/" target="_blank">
+          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
