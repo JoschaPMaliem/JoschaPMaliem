@@ -3,8 +3,7 @@
 
 
 <div align="center">
- <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/wave.gif" width="40px" />
-  <h1>Joscha Maliem - Software Developer</h1>
+  <h1><img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/wave.gif" width="40px" /> Joscha Maliem - Software Developer</h1>
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt) ![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif)
