@@ -38,7 +38,7 @@ I am Joscha Maliem, a passionate software developer with experience in building 
 
 
 
-*Man is something that shall be overcome. What have you done to overcome him?* 
+*Man is something that shall be overcome. What have you done to overcome him? - Nietzsche* 
 
 
 
