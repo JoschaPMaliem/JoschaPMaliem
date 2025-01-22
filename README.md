@@ -6,7 +6,7 @@
   <h1>Greetings <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/wave.gif" width="40px" /> Joscha - Software Developer</h1>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,html,css,js,bootstrap,mysql,flutter,figma,wordpress,vscode)](https://skillicons.dev)
 
 
 
