@@ -3,9 +3,9 @@
 
 
 <div align="center">
- <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif" width="40px" />
+ <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif" width="20px" />
   <strong>Joscha Maliem - Software Developer</strong>
- <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/goku-fortnite-goku.gif" width="40px" style="transform: scaleX(-1);" />
+ <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/goku-fortnite-goku.gif" width="20px" style="transform: scaleX(-1);" />
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoschaPMaliem&show_icons=true&theme=cobalt) ![](https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/evangelion.gif)
