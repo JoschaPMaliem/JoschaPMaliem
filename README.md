@@ -17,8 +17,9 @@ I am Joscha Maliem, a passionate software developer with experience in building 
 
 
 <div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="20px" />
-  <strong style="font-size: 20px;">Let's connect!</strong>
+<strong style="font-size: 40px;">Let's connect!</strong>
+<img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="40px" />
+  
 </div>
 
 <a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank">
