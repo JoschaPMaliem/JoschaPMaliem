@@ -16,7 +16,7 @@ I am Joscha Maliem, a passionate software developer with experience in building 
 *Man is something that shall be overcome. What have you done to overcome him?* 
 
 <div align="center">
- <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="100px" />
+ <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="5px" />
   <strong>Let's connect!</strong>
  <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/my-hero-academia-boku-no-hero-academia.gif" width="10px" style="transform: scaleX(-1);" />
 </div>
