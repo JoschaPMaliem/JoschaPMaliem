@@ -16,8 +16,10 @@ I am Joscha Maliem, a passionate software developer with experience in building 
 *Man is something that shall be overcome. What have you done to overcome him?* 
 
 
->
+<div style="display: flex; align-items: center; gap: 5px;">
 <strong style="font-size: 40px;">Let's connect!⚡</strong>
+</div>
+
 <a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
@@ -40,5 +42,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- Fun fact: ...
+- ⚡ Fun fact: ...
 -->
