@@ -15,15 +15,15 @@ I am Joscha Maliem, a passionate software developer with experience in building 
 
 *Man is something that shall be overcome. What have you done to overcome him?* 
 
+<div align="center">
+ <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="20px" /> <strong>Let's connect!</strong>
+</div>
 
- <img src="https://github.com/JoschaPMaliem/JoschaPMaliem/blob/main/gojo-yuji-transparent-gojo.gif" width="20px" /> <strong>Let's connect!</strong> <a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-
-
-
-
-
-
-
+<div align="center">
+<a href="https://www.linkedin.com/in/joscha-maliem-1a4463204/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
 
 
