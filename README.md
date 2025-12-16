@@ -8,8 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cs,html,css,js,bootstrap,mysql,flutter,figma,wordpress,vscode)](https://skillicons.dev)
 
-I am Joscha Maliem, a passionate software developer with experience in building dynamic and innovative solutions. I am currently working on projects involving Java Spring Boot, focusing on creating robust and scalable backend systems. I enjoy solving complex problems and learning new technologies to expand my skill set. 
-
+I am Joscha Maliem, a passionate software developer with experience in building dynamic and innovative solutions. I am currently working on android application projects with flutter.
 <div style="display: flex; align-items: center; gap: 5px;">
 <strong style="font-size: 40px;">Let's connect!⚡</strong>
 </div>
